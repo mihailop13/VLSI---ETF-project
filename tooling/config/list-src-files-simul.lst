@@ -1,0 +1,16 @@
+src/simulation/modules/alu.v
+src/simulation/modules/bcd.v
+src/simulation/modules/ssd.v
+src/simulation/modules/clk_div.v
+src/simulation/modules/memory.v
+src/simulation/modules/register.v
+src/simulation/modules/cpu.v
+src/simulation/modules/red.v
+src/simulation/modules/top.v
+src/simulation/modules/ps2.v
+src/simulation/modules/scan_codes.v
+src/simulation/modules/vga.v
+src/simulation/modules/color_codes.v
+
+src/simulation/top_verif.sv
+
